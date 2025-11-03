@@ -1,0 +1,11 @@
+[package]
+name = "mvcc_hwm_sim"
+version = "0.1.0"
+edition = "2024"
+authors = ["Sunny Bains<sunny.bains@pingcap.com>"]
+license = "MIT"
+description = "MVCC delete + HWM frontier + gossip GC simulation"
+repository = "https://github.com/sunbains/repo"
+
+[dependencies]
+
